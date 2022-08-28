@@ -38,4 +38,6 @@ OS: Windows_NT x64 10.0.22000
 ## Try it!
 git clone https://github.com/GKARLOZ/WGUPSdelivery-system-WGU-DataStruc-Algoll.git
 
+RUN CODE
+
 
