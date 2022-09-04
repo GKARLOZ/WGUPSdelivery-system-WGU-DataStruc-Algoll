@@ -1,4 +1,4 @@
-# WGU Postal Service Delivery System 
+# :truck: WGU Postal Service Delivery System :articulated_lorry: 
 
 This program will display a menu for the user to pick from. 
 
@@ -35,7 +35,7 @@ V8: 10.0.139.17-electron.0
 OS: Windows_NT x64 10.0.22000
 
 
-## Try it!
+## Try it:heavy_exclamation_mark: :octocat:
 git clone https://github.com/GKARLOZ/WGUPSdelivery-system-WGU-DataStruc-Algoll.git
 
 RUN CODE
